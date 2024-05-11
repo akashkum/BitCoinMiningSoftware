@@ -1,6 +1,6 @@
 @startuml
 
-BitCoin <|-- Node
+Bitcoin <|-- Node
 
 class Bitcoin {
     -- Contructors & destructors --
