@@ -1,10 +1,10 @@
 @startuml
 
-Instance <|-- VulkanRootObject
+BitCoin <|-- Node
 
-class Instance {
+class Bitcoin {
     -- Contructors & destructors --
-    - Instance()
+    - Bitcoin()
     
     -- Public methods --
     + Initialize() : bool
