@@ -1,3 +1,6 @@
-![example-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml)
+![example-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/akashkum/BitCoinMiningSoftware/main/example.iuml)
 
-![Test UML](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml)
+![Test UML](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/akashkum/BitCoinMiningSoftware/main/design.puml)
+
+
+
