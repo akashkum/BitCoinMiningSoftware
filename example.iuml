@@ -1,10 +1,7 @@
 @startuml
-actor client
-node app
-node car
-node tshirt
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
 
-car -> app
-app -> client
-client -> tshirt
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: Another authentication Response
 @enduml
